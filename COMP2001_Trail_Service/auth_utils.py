@@ -8,7 +8,7 @@ from models import Trail, LocationPoint, db
 import notes  
 
 # Constants
-SECRET_KEY = "afafsdfsgdghdhg-dfsdfdsfsdf*"
+SECRET_KEY = "secret-key"
 AUTH_URL = "https://web.socem.plymouth.ac.uk/COMP2001/auth/api/users"
 TOKEN_EXPIRATION_MINUTES = 60
 
